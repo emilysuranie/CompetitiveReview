@@ -10,6 +10,7 @@ This project contains a comprehensive analysis of streaming platforms to assess 
 
 
 - <b>Google Docs</b>
+- <b>Google Sheets</b>
 
 
 <h2>Project:</h2>
