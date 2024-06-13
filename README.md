@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project contains a comprehensive analysis of three streaming platforms to assess the strengths and weaknesses of Pluto TV's personalization features. This analysis focuses on Nexflix, Hulu, and Plex TV to identify potential strategies for improving Pluto TV's user experience. The main objective is to evaluate the personalization features of various streaming platforms in order to strengthen Pluto TV's customization options. 
+This project focuses on how to improve Pluto TV’s personalization features through a SWOT analysis of Netflix, Hulu, and Plex TV. By examining these three streaming platforms it sheds light on possible alterations that could improve the user experience of Pluto TV’s viewers. The end goal of this project is to find ways to strengthen Pluto TV’s customization options to overall benefit the platform and its users.  
 <br />
 
 
